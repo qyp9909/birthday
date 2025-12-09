@@ -1,0 +1,7 @@
+{
+  "name": "Birthday Cake Audio Viz",
+  "description": "An interactive 3D birthday experience where a chaotic particle field assembles into a delicious cake, synchronized with real-time audio visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

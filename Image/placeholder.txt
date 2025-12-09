@@ -1,0 +1,3 @@
+This folder is no longer in use.
+
+Please place your images (1.jpg, 2.jpg, etc.) directly in the main project directory (the root), not in this 'Image' folder.

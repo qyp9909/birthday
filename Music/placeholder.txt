@@ -1,0 +1,2 @@
+Please place your background music file here and name it "bgm.mp3".
+The application will automatically load and play it.
